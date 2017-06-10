@@ -1,0 +1,16 @@
+{
+  "name": "weathernode",
+  "version": "1.0.0",
+  "description": "Weather App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Malay",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "request": "^2.81.0",
+    "yargs": "^8.0.1"
+  }
+}
